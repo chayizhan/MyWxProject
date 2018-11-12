@@ -1,2 +1,2 @@
 # MyWxProject
-mini programs
+well,this is a mini programs
