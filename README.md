@@ -1,2 +1,2 @@
 # MyWxProject
-well,this is a mini programs
+this is a mini programs,you can learn painting here
